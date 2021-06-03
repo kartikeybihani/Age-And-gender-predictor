@@ -5,8 +5,8 @@ Libraries used were opencv-python and argparse
 
 
 
-If you want to predict through camera/webcam then --> "python gad.py"
+If you want to predict through camera/webcam then --> "python main.py"
 
 
 
-If you want to predict through an image then --> "python gad.py --image image/path"
+If you want to predict through an image then --> "python main.py --image image/path"
